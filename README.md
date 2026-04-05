@@ -21,11 +21,14 @@ Analog input from a potentiometer is mapped to realistic BPM values (40–140 BP
 - Resistors
 
 ## 🔌 Circuit
-![Circuit](your-image-name.png)
+![Circuit](heart_rate_monitor_simulation_image.png)
+
+## 🔗 Live Simulation
+[View Project on Tinkercad](https://www.tinkercad.com/things/l6t6g70laSu-heart-rate-monitoring-and-alert-system-using-arduino/)
 
 ## 💡 Future Improvements
 - Replace the potentiometer with a real pulse sensor
 - IoT integration for remote monitoring
 
 ## 🚀 Author
-Ziy Zay
+MD Ziyaad Ul Hasan Ansari
